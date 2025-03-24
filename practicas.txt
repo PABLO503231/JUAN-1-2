@@ -1,0 +1,10 @@
+papas
+manzanas
+peras
+camote
+piña
+fresa
+sandia
+melon
+coco
+uva
